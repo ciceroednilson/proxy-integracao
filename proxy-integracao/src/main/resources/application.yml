@@ -1,0 +1,8 @@
+server:
+  port: 9000
+
+zuul:
+  sensitiveHeaders: Cookie,Set-Cookie
+  routes:
+    proxy:
+      url: http://192.168.0.28:8080
