@@ -1,5 +1,12 @@
+
 # proxy-integracao
 Proxy usando Spring Cloud Netflix Zuul.
 
+Arquitetura usando Zuul proxy.
 
-Tutorial dispponível em: 
+![spring-zull-proxy](https://user-images.githubusercontent.com/17622032/77262777-34247780-6c75-11ea-8795-d190bf467a30.png)
+
+
+Tutorial dispponível no link abaixo.
+
+http://www.ciceroednilson.com.br/java-criando-um-proxy-com-spring-cloud-netflix-zuul/
